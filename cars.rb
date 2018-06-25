@@ -1,5 +1,6 @@
 
 class Cars
+  atrr_
   
   def initialize (model,make,year)
     @model = model
