@@ -18,6 +18,6 @@ end
 toyota = Cars.new ("camry", "toyota","1997")
 prius = Cars.new ("prius", "toyota", "2011")
  
- puts " the car has #{prius_stereo}"
+ puts " the car has #{prius,stereo}"
 
 
